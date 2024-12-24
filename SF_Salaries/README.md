@@ -38,6 +38,6 @@ This project involves performing data analysis on the **San Francisco Salaries d
 ## Usage
 
 1. Clone this repository.
-2. Download the dataset from [Kaggle](https://www.kaggle.com/kaggle/sf-salaries).
+2. Download the dataset from [Kaggle SF](https://www.kaggle.com/kaggle/sf-salaries).
 3. Load the dataset in your Python environment.
 
