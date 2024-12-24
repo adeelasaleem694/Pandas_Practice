@@ -44,7 +44,7 @@ This project involves analyzing the **Adult dataset** (from Kaggle) using variou
 ## Usage
 
 1. Clone this repository.
-2. Download the dataset from [Kaggle - Adult Dataset](https://www.kaggle.com/uciml/adult-census-income).
+2. Download the dataset from [Kaggle - Adult Dataset]([https://www.kaggle.com/datasets/wenruliu/adult-income-dataset]).
 3. Load the dataset in your Python environment.
 4. Follow the analysis steps outlined in the questions above.
 
