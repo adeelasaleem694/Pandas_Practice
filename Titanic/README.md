@@ -38,20 +38,7 @@ This repository contains my practice work on the Titanic dataset using Python an
 - **`pandaspractice/`**: Includes practice on SF, Adult, and Titanic datasets.
 - Files address data exploration, univariate and bivariate analysis, and feature engineering.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/pandaspractice.git
-   ```
-2. Navigate to the folder:
-   ```bash
-   cd pandaspractice
-   ```
-3. Open the Titanic analysis notebook:
-   ```bash
-   jupyter notebook Titanic.ipynb
-   ```
-   
+
 ## Conclusion
 This practice session enhanced my data manipulation and analysis skills using pandas.
 
