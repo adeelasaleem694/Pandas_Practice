@@ -29,6 +29,11 @@ This repository contains my practice work on the Titanic dataset using Python an
 ### Feature Engineering
 - Steps involved in enhancing and preparing data for analysis.
 
+
+## Titanic Dataset
+- Dataset used: [Titanic Dataset on Kaggle](https://www.kaggle.com/c/titanic/data)
+
+
 ## Repository Structure
 - **`pandaspractice/`**: Includes practice on SF, Adult, and Titanic datasets.
 - Files address data exploration, univariate and bivariate analysis, and feature engineering.
@@ -46,4 +51,7 @@ This repository contains my practice work on the Titanic dataset using Python an
    ```bash
    jupyter notebook Titanic.ipynb
    ```
+   
+## Conclusion
+This practice session enhanced my data manipulation and analysis skills using pandas.
 
