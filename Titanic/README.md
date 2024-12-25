@@ -44,6 +44,6 @@ This repository contains my practice work on the Titanic dataset using Python an
    ```
 3. Open the Titanic analysis notebook:
    ```bash
-   jupyter notebook Titanic_Analysis.ipynb
+   jupyter notebook Titanic.ipynb
    ```
 
