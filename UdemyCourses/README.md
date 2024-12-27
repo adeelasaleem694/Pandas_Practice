@@ -1,8 +1,7 @@
 
 
-# PandasPractice  
-
-This repository contains a collection of exercises and examples demonstrating the practical use of **pandas** for data analysis. The dataset used involves exploring Udemy course data to answer interesting questions and perform insightful analyses.  
+# UdemyCourses
+The dataset used involves exploring Udemy course data to answer interesting questions and perform insightful analyses.  
 
 ## Features  
 
